@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Category] ([Id], [Name]) VALUES (1, N'Техника для дома')
+INSERT INTO [dbo].[Category] ([Id], [Name]) VALUES (2, N'Крупная бытовая техника')
+INSERT INTO [dbo].[Category] ([Id], [Name]) VALUES (3, N'Мелкая бытовая техника')
+INSERT INTO [dbo].[Category] ([Id], [Name]) VALUES (4, N'Техника для кухни')
+INSERT INTO [dbo].[Category] ([Id], [Name]) VALUES (5, N'Встраиваемая техника')
